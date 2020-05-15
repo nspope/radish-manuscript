@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1588027652 "manuscript.tex" "manuscript.pdf" "manuscript" 1588027652
+["pdflatex"] 1589324677 "manuscript.tex" "manuscript.pdf" "manuscript" 1589324677
   "/etc/texmf/web2c/texmf.cnf" 1582991185 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -86,9 +86,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1583936376 127853 b41f58aff49fe1af38af8d065f49d51c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1583936448 731222 d234b309dc2bcdc0b874129fa2a68420 ""
-  "manuscript.aux" 1588027652 836 e047af139b2d475a3e37c244097a8570 ""
-  "manuscript.tex" 1588019752 22504 049b492312e0f8c136011c9e35034949 ""
+  "manuscript.aux" 1589324677 901 4385bba766799f8f4277db8a294c37b4 ""
+  "manuscript.tex" 1589324673 22440 d625637dfbfdff3c72f72994dd6567d5 ""
   (generated)
+  "manuscript.pdf"
   "manuscript.aux"
   "manuscript.log"
-  "manuscript.pdf"
